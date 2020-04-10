@@ -1,0 +1,9 @@
+Sympy
+
+Sympy = Ýçinde cebirsel iþlemler yapmayý saðlayan metodlar bulundurur
+Symbol = Deðiþkene bir sembol deðeri atmak için kulanýlýr
+pprint = Matematiksel iþlemleri sembolleri ile çýktý verir
+factor = Çarpanlarýna ayýrýr
+subs = Bir formüldeki deðiþkenlere deðer atamak için kullanýlýr
+solve = Cebirsel denklemleri çözer
+expand = Cebirsel ifadeyi geniþletir
